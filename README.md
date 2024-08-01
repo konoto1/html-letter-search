@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational purposes only.
 
-Site published at: [Here] (<https://konoto1.github.io/html-hex-color/>)
+Site published at: [Here] (<https://konoto1.github.io/html-letter-search/>)
 
 Design: --
 
@@ -48,7 +48,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/konoto1/html-hex-color.git
+    git clone https://github.com/konoto1/html-letter-search.git
     ```
 2. Install NPM packages
     ```sh
